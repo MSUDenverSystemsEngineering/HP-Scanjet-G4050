@@ -1,1 +1,1 @@
-HP-Scanjet-G4050
+HP Scanjet G4050

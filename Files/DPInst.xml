@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<dpInst>
+  <enableNotListedLanguages/>
+  <language code="0x804">
+    <!--Chinese (People's Republic of China)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x404">
+    <!--Chinese (Taiwan)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x405">
+    <!--Czech (Czech Republic)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x406">
+    <!--Danish (Denmark)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x407">
+    <!--German (Germany)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x408">
+    <!--Greek (Greece)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x409">
+    <!--English (United States)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0xC0A">
+    <!--Spanish - Modern Sort (Spain)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x40B">
+    <!--Finnish (Finland)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x40C">
+    <!--French (France)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x40E">
+    <!--Hungarian (Hungary)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x410">
+    <!--Italian (Italy)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x412">
+    <!--Korean (Korea)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x414">
+    <!--Norwegian (Bokmål) (Norway)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x413">
+    <!--Dutch (Netherlands)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x415">
+    <!--Polish (Poland)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x416">
+    <!--Portuguese (Brazil)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x816">
+    <!--Portuguese (Portugal)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x419">
+    <!--Russian (Russia)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x41D">
+    <!--Swedish (Sweden)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+  <language code="0x41F"> 
+    <!--Turkish (Turkey)-->
+    <dpinstTitle>HP Scanjet 4000 Series</dpinstTitle>
+  </language>
+</dpInst>
